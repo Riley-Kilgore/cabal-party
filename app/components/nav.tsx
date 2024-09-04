@@ -1,9 +1,6 @@
 import Link from 'next/link'
 
 const navItems = {
-  'https://discord.gg/FQMR7sN6H8': {
-    name: 'Discuss',
-  },
   'https://docs.intersectmbo.org/': {
     name: 'Intersect Info',
   },
