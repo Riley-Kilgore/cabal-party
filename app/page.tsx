@@ -4,18 +4,11 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Cardano Advancement for Blockchain Assurance and Longevity Party
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`The CABAL Party is dedicated to optimizing the use of Cardano's treasury for pragmatic, high-impact improvements to the blockchain's core technology and infrastructure. We strive to balance responsible resource allocation with innovation, prioritizing the development of high-assurance tools and frameworks to enhance Cardano's security, stability, and scalability for the benefit of all stakeholders.`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
