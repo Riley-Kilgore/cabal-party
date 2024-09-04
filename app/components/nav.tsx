@@ -1,14 +1,11 @@
 import Link from 'next/link'
 
 const navItems = {
-  '/': {
-    name: 'home',
+  'https://discord.gg/FQMR7sN6H8': {
+    name: 'Discuss',
   },
-  '/blog': {
-    name: 'blog',
-  },
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
-    name: 'deploy',
+  'https://docs.intersectmbo.org/': {
+    name: 'Intersect Info',
   },
 }
 
